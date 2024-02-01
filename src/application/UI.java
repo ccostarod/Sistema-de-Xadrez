@@ -1,6 +1,6 @@
 package application;
 
-import chess.pieces.ChessPiece;
+import chess.ChessPiece;
 
 public class UI {
     public static void printBoard(ChessPiece[][] pieces){
